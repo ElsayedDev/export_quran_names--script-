@@ -1,0 +1,572 @@
+[
+    {
+        "surah_name_ar": "الفاتحة",
+        "page_number": 1,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "البقره",
+        "page_number": 2,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "آل عمران",
+        "page_number": 50,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "النساء",
+        "page_number": 77,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "المائدة",
+        "page_number": 106,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "لأنعام",
+        "page_number": 128,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأعراف",
+        "page_number": 151,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأنفال",
+        "page_number": 177,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "التوبة",
+        "page_number": 187,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "يونس",
+        "page_number": 208,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "هود",
+        "page_number": 221,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "يوسف",
+        "page_number": 235,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الرّعد",
+        "page_number": 249,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "إبراهيم",
+        "page_number": 255,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الحجر",
+        "page_number": 262,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "النحل",
+        "page_number": 267,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الإسراء",
+        "page_number": 282,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الكهف",
+        "page_number": 293,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "مريم",
+        "page_number": 305,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "طه",
+        "page_number": 312,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأنبياء",
+        "page_number": 322,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الحج",
+        "page_number": 332,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "المؤمنون",
+        "page_number": 342,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "النّور",
+        "page_number": 350,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الفرقان",
+        "page_number": 359,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الشعراء",
+        "page_number": 367,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "النمل",
+        "page_number": 377,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "القصص",
+        "page_number": 385,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "العنكبوت",
+        "page_number": 396,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الروم",
+        "page_number": 404,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "لقمان",
+        "page_number": 411,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "السجدة",
+        "page_number": 415,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأحزاب",
+        "page_number": 418,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "سبإ",
+        "page_number": 428,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "فاطر",
+        "page_number": 434,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "ياسين",
+        "page_number": 440,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الصّافّات",
+        "page_number": 446,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "ص",
+        "page_number": 453,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الزمر",
+        "page_number": 458,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "غافر",
+        "page_number": 467,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "فصّلت",
+        "page_number": 477,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الشورى",
+        "page_number": 483,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الزخرف",
+        "page_number": 489,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الدخان",
+        "page_number": 496,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الجاثية",
+        "page_number": 499,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأحقاف",
+        "page_number": 502,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "محمّـد",
+        "page_number": 507,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الفتح",
+        "page_number": 511,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الحُـجُـرات",
+        "page_number": 515,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "ق",
+        "page_number": 518,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الذاريات",
+        "page_number": 520,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـطور",
+        "page_number": 523,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـنحـم",
+        "page_number": 526,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـقمـر",
+        "page_number": 528,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الرحمن",
+        "page_number": 531,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الواقيـة",
+        "page_number": 534,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الحـديد",
+        "page_number": 537,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمجادلـة",
+        "page_number": 542,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـحـشـر",
+        "page_number": 545,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمـمـتـحنة",
+        "page_number": 548,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـصّـف",
+        "page_number": 551,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـجـمـعـة",
+        "page_number": 553,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمنافقون",
+        "page_number": 554,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـتغابن",
+        "page_number": 556,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـطلاق",
+        "page_number": 558,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـتحريم",
+        "page_number": 560,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـملك",
+        "page_number": 562,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـقـلـم",
+        "page_number": 564,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـحاقّـة",
+        "page_number": 566,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمعارج",
+        "page_number": 568,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "نوح",
+        "page_number": 570,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الجن",
+        "page_number": 572,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمـزّمّـل",
+        "page_number": 574,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمّـدّثّـر",
+        "page_number": 575,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـقـيامـة",
+        "page_number": 577,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الإنسان",
+        "page_number": 578,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمرسلات",
+        "page_number": 580,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـنبإ",
+        "page_number": 582,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـنازعات",
+        "page_number": 583,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "عبس",
+        "page_number": 585,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "التكوير",
+        "page_number": 586,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الانفطار",
+        "page_number": 587,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "المطـفـفين",
+        "page_number": 587,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الانشقاق",
+        "page_number": 589,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "البروج",
+        "page_number": 590,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـطارق",
+        "page_number": 591,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الأعـلى",
+        "page_number": 591,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الغاشـيـة",
+        "page_number": 592,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الفجر",
+        "page_number": 593,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـبلد",
+        "page_number": 594,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـشـمـس",
+        "page_number": 595,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "اللـيـل",
+        "page_number": 595,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الضـحى",
+        "page_number": 596,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـشرح",
+        "page_number": 596,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـتين",
+        "page_number": 597,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـعلق",
+        "page_number": 597,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـقدر",
+        "page_number": 598,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـبينة",
+        "page_number": 598,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـزلزلة",
+        "page_number": 599,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـعاديات",
+        "page_number": 599,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـقارعـة",
+        "page_number": 600,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـتكاثر",
+        "page_number": 600,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "العصر",
+        "page_number": 601,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـهمزة",
+        "page_number": 601,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الفيل",
+        "page_number": 601,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "قريش",
+        "page_number": 602,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "المـاعون",
+        "page_number": 602,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـكوثر",
+        "page_number": 602,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الكافرون",
+        "page_number": 603,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـنصر",
+        "page_number": 603,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـمسد",
+        "page_number": 603,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "اخلاص",
+        "page_number": 604,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الـفلق",
+        "page_number": 604,
+        "description": ""
+    },
+    {
+        "surah_name_ar": "الناس",
+        "page_number": 604,
+        "description": ""
+    }
+]
